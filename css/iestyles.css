@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#right{	
+	margin-left: 180px;
+	width: 620px;
+	text-align:left;
+	background-color:#ffffff;
+	border-top:solid 1px #ffffff;
+	vertical-align:top;}
+	
+#rprtTable{
+	background-image:url(../images/backgrounds/blue1px.png);
+	background-repeat:repeat; 
+	width:615px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	margin-left: 4px;
+	position:absolute;
+	top:143px;}
+

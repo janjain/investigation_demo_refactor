@@ -1,0 +1,11 @@
+INSERT INTO users VALUES
+('', 'Jaston', 'Anjain', 'Chief Investigator', '4', 'Jaston', password('Jaston'));
+
+INSERT INTO permissions VALUES
+('', 'Staff'),
+('', 'Administrator'),
+('', 'Super Administrator');
+
+
+INSERT INTO investigation_case VALUES
+('', 'Hospital', '2014-02-02', 'Pending', 'This case requires attention', 'Jaston', '2');
